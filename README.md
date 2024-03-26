@@ -1,37 +1,39 @@
 👋 Hey there! Welcome to my GitHub spot!
-About Me
-I'm a keen and committed Computer Engineer, diving into tough tech problems and turning cool ideas into reality. I bring a mix of techie skills, creativity, and a constant thirst for learning to make a positive tech impact.
 
-🚀 Key Traits and Skills
-1. **Coding Languages and Frameworks**
-   - Flutter: Building mobile apps that work everywhere.
-   - Python: Crunching data, machine learning, and scripting.
-   - Java: Making sturdy and scalable software.
-   - JavaScript: Crafting web stuff and interactive UIs.
-   - SQL: Nailing database management.
+### About Me
+I'm Basel Ashraf Fikry Fathy Askar, a passionate Computer Engineer committed to diving into tough tech problems and turning cool ideas into reality. I bring a mix of technical skills, creativity, and a constant thirst for learning to make a positive tech impact.
 
-2. **Problem Solving**
-   - I love tackling challenges, from code efficiency to tricky bugs.
+### 🚀 Key Traits and Skills
+**Coding Languages and Frameworks**
+- Flutter: Building mobile apps that work everywhere.
+- Python: Crunching data, machine learning, and scripting.
+- Java: Making sturdy and scalable software.
+- JavaScript: Crafting web stuff and interactive UIs.
+- SQL: Nailing database management.
 
-3. **Always Learning**
-   - Keeping up with tech trends and best practices, always on the learning curve.
+**Problem Solving**
+- Love tackling challenges, from code efficiency to tricky bugs.
 
-4. **Team Player**
-   - I'm all about effective communication and teamwork, delivering mixed-skill projects.
+**Always Learning**
+- Keeping up with tech trends and best practices, always on the learning curve.
 
-5. **Innovative Mindset**
-   - I'm into finding fresh ways to solve problems and create value.
+**Team Player**
+- All about effective communication and teamwork, delivering mixed-skill projects.
 
-6. **Analytical Skills**
-   - Breaking down complex problems into doable bits for effective solutions.
+**Innovative Mindset**
+- Into finding fresh ways to solve problems and create value.
 
-7. **Project Management**
-   - I've got experience in managing projects, from scope to milestones.
+**Analytical Skills**
+- Breaking down complex problems into doable bits for effective solutions.
 
-8. **Open Source Contributor**
-   - I dig contributing to open-source projects, spreading knowledge and improving software with devs worldwide.
+**Project Management**
+- Experience in managing projects, from scope to milestones.
 
-🌐 Let's Connect
-If you're into tech and innovation or want to team up on cool projects, drop me a line. Let's connect and build a tech future! WhatsApp: +20 102 886 3334
+**Open Source Contributor**
+- Dig contributing to open-source projects, spreading knowledge, and improving software with devs worldwide.
+
+### 🌐 Let's Connect
+If you're into tech and innovation or want to team up on cool projects, drop me a line. Let's connect and build a tech future! 
+WhatsApp: +20 102 886 3334
 
 Check out my GitHub for some projects. Thanks for stopping by, and looking forward to connecting! 😄🚀
