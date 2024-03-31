@@ -40,8 +40,8 @@
 ## 📊 My GitHub Data:
 ![trophy](https://github-profile-trophy.vercel.app/?username=BaselAshraf81&theme=darkhub&no-bg=true&no-frame=true)
 <div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=BaselAshraf81&show_icons=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BaselAshraf81&" alt="baselashraf" />
+  <img  src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=BaselAshraf81&show_icons=true" />
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=BaselAshraf81&" alt="baselashraf" />
 </div>
 
 ## 🤝 Support Me:
