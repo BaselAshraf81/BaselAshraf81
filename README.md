@@ -1,36 +1,53 @@
-![trophy](https://github-profile-trophy.vercel.app/?username=BaselAshraf81&theme=darkhub&no-bg=true&no-frame=true)
+<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Basel Ashraf Fikry</h1>
 
----
+<div align="center">
+  <img src ="./banner.png" />
+</div>
 
-Ahoy there! 👋 I'm Basel Ashraf Fikry Fathy Askar, a voyager in the realms of Computer Engineering and Software Systems at the University of East London. I'm fueled by the thrill of leveraging technology to unravel real-world conundrums!
+<br/>
 
-### About Me
-🚀 I'm a meticulous navigator, exploring uncharted territories with fervor.  
-🔍 Currently, I'm on an odyssey through the realms of machine learning and computer vision, always on the lookout for new horizons.  
-🎓 I'm charting a course toward my Bachelor's degree, which I anticipate completing in May 2026.
+## 👨🏻‍💻 About Me:
 
-### Skills & Expertise
-💡 I wield the tools of technology with finesse, mastering various software suites.  
-🤖 I craft and wield machine learning marvels using the artisanal tools of TensorFlow and scikit-learn.  
-🔬 I am the alchemist of accurate data annotation, infusing datasets with the essence of precision.  
-💻 I compose elegant documents using the venerable script of LaTeX.
+- 🙋‍♂️ Detail-oriented and highly motivated Computer Engineering and Software Systems student at the University of East London, seeking an internship opportunity as a Machine Learning Labeler at Belvo.
 
-### Experience & Projects
-🛠️ **Internship at IEEE**: Embarked on daring quests in the realms of machine learning and computer vision.  
-🔍 **Fraud Detection Model**: Forged a shield against deceit, constructing a model to unveil fraudulent banking transactions with uncanny accuracy.  
-📑 **Document Classification Application**: Fashioned a beacon of clarity amidst the sea of financial documents.
+- 🔭 Currently applying machine learning concepts to real-world problems through coursework at IEEE.
 
-### Certifications & Credentials
-🏅 **Data Annotation Specialist**: Certified in the art of precision labeling, adorning financial data with meticulous detail.  
-🎓 **Machine Learning for Financial Services**: Acquired the keys to the kingdom of finance, wielding machine learning to unlock its secrets.  
-🔑 **Behavioral Data Analysis**: Delved into the psyche of financial data, deciphering its hidden narratives.  
-📈 **Computer Vision Fundamentals**: Mastered the arcane arts of sight, unveiling the mysteries of image analysis.
+- 🌱 I’m currently learning practical applications of Machine Learning and Computer Vision in Behavioral Analytics.
 
-### Let's Connect!
-📧 Drop me a line at u2679054@uel.ac.uk.  
-🌐 Embark on a journey with me on [LinkedIn](https://www.linkedin.com/in/basel-askar-920248156/).  
-📝 Discover my exploits and adventures in my [Portfolio](your-portfolio-website).
+- 👯 I’m looking to collaborate on projects focusing on Behavioral Machine Learning and Computer Vision.
 
----
+- 🤔 I’m looking for help with real-world implementations of Machine Learning models.
 
-![Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BaselAshraf81&count_private=false&show_icons=true&bg_color=22272E&text_color=9F9F9F)
+- 💬 Ask me about anything related to Machine Learning and Computer Vision.
+
+- 👨‍💻 Life Hack: Learn by doing and share your knowledge with others.
+
+- ⚡ Fun fact: I enjoy exploring new technologies and experimenting with different approaches to problem-solving.
+
+## 🛠️ Technologies and Tools I use:
+
+<p>
+<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
+<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" height="25px"/>
+<img alt="scikit-learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="25px"/>
+<img alt="Computer Vision" src="https://img.shields.io/badge/Computer_Vision-8a3ab9?style=for-the-badge&logoColor=white" height="25px"/>
+<img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-85C1E9?style=for-the-badge&logoColor=white" height="25px"/>
+<img alt="Behavioral Analytics" src="https://img.shields.io/badge/Behavioral_Analytics-FF5733?style=for-the-badge&logoColor=white" height="25px"/>
+<img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=LaTeX&logoColor=white" height="25px"/>
+</p>
+
+## ❤️ Let's get connected:
+
+<p><a href="mailto:u2679054@uel.ac.uk" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30px" /></a> <a href="https://www.linkedin.com/in/basel-askar-920248156/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
+</p>
+
+## 🤝 Support Me:
+
+<a href="https://www.buymeacoffee.com/el7awy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
+
+## 📊 My GitHub Data:
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=BaselAshraf81&show_icons=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BaselAshraf81&" alt="baselashraf" />
+</div>
