@@ -1,3 +1,4 @@
+![trophy](https://github-profile-trophy.vercel.app/?username=BaselAshraf81&theme=darkhub&no-bg=true&no-frame=true)
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px" height="60px"> I'm Basel Ashraf</h1>
 
 <br/>
@@ -38,7 +39,6 @@
 </p>
 
 ## 📊 My GitHub Data:
-![trophy](https://github-profile-trophy.vercel.app/?username=BaselAshraf81&theme=darkhub&no-bg=true&no-frame=true)
 <div align="center">
   <img  src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=BaselAshraf81&show_icons=true" />
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=BaselAshraf81&" alt="baselashraf" />
