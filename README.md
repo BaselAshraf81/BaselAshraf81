@@ -1,39 +1,36 @@
-👋 Hey there! Welcome to my GitHub spot!
+![trophy](https://github-profile-trophy.vercel.app/?username=baselaskar&theme=darkhub&no-bg=true&no-frame=true)
+
+---
+
+Ahoy there! 👋 I'm Basel Ashraf Fikry Fathy Askar, a voyager in the realms of Computer Engineering and Software Systems at the University of East London. I'm fueled by the thrill of leveraging technology to unravel real-world conundrums!
 
 ### About Me
-I'm Basel Ashraf Fikry Fathy Askar, a passionate Computer Engineer committed to diving into tough tech problems and turning cool ideas into reality. I bring a mix of technical skills, creativity, and a constant thirst for learning to make a positive tech impact.
+🚀 I'm a meticulous navigator, exploring uncharted territories with fervor.  
+🔍 Currently, I'm on an odyssey through the realms of machine learning and computer vision, always on the lookout for new horizons.  
+🎓 I'm charting a course toward my Bachelor's degree, which I anticipate completing in May 2026.
 
-### 🚀 Key Traits and Skills
-**Coding Languages and Frameworks**
-- Flutter: Building mobile apps that work everywhere.
-- Python: Crunching data, machine learning, and scripting.
-- Java: Making sturdy and scalable software.
-- JavaScript: Crafting web stuff and interactive UIs.
-- SQL: Nailing database management.
+### Skills & Expertise
+💡 I wield the tools of technology with finesse, mastering various software suites.  
+🤖 I craft and wield machine learning marvels using the artisanal tools of TensorFlow and scikit-learn.  
+🔬 I am the alchemist of accurate data annotation, infusing datasets with the essence of precision.  
+💻 I compose elegant documents using the venerable script of LaTeX.
 
-**Problem Solving**
-- Love tackling challenges, from code efficiency to tricky bugs.
+### Experience & Projects
+🛠️ **Internship at IEEE**: Embarked on daring quests in the realms of machine learning and computer vision.  
+🔍 **Fraud Detection Model**: Forged a shield against deceit, constructing a model to unveil fraudulent banking transactions with uncanny accuracy.  
+📑 **Document Classification Application**: Fashioned a beacon of clarity amidst the sea of financial documents.
 
-**Always Learning**
-- Keeping up with tech trends and best practices, always on the learning curve.
+### Certifications & Credentials
+🏅 **Data Annotation Specialist**: Certified in the art of precision labeling, adorning financial data with meticulous detail.  
+🎓 **Machine Learning for Financial Services**: Acquired the keys to the kingdom of finance, wielding machine learning to unlock its secrets.  
+🔑 **Behavioral Data Analysis**: Delved into the psyche of financial data, deciphering its hidden narratives.  
+📈 **Computer Vision Fundamentals**: Mastered the arcane arts of sight, unveiling the mysteries of image analysis.
 
-**Team Player**
-- All about effective communication and teamwork, delivering mixed-skill projects.
+### Let's Connect!
+📧 Drop me a line at u2679054@uel.ac.uk.  
+🌐 Embark on a journey with me on [LinkedIn](https://www.linkedin.com/in/basel-askar-920248156/).  
+📝 Discover my exploits and adventures in my [Portfolio](your-portfolio-website).
 
-**Innovative Mindset**
-- Into finding fresh ways to solve problems and create value.
+---
 
-**Analytical Skills**
-- Breaking down complex problems into doable bits for effective solutions.
-
-**Project Management**
-- Experience in managing projects, from scope to milestones.
-
-**Open Source Contributor**
-- Dig contributing to open-source projects, spreading knowledge, and improving software with devs worldwide.
-
-### 🌐 Let's Connect
-If you're into tech and innovation or want to team up on cool projects, drop me a line. Let's connect and build a tech future! 
-WhatsApp: +20 102 886 3334
-
-Check out my GitHub for some projects. Thanks for stopping by, and looking forward to connecting! 😄🚀
+![Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=baselaskar&count_private=false&show_icons=true&bg_color=22272E&text_color=9F9F9F)
