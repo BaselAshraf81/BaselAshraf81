@@ -55,6 +55,9 @@
   <a href="https://baselai.vercel.app/" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-405DE6?style=for-the-badge&logo=appveyor&logoColor=white"  height="30px"/>
   </a>
+  <a href="[https://example.com/your-resume.pdf](https://baselai.vercel.app/static/media/resume.acce06f3b6f4e850d203.pdf)" target="_blank">
+    <img alt="Resume" src="https://img.shields.io/badge/Resume-FF6F61?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"  height="30px"/>
+  </a>
 </p>
 
 
@@ -70,5 +73,3 @@
 
 <a href="https://www.buymeacoffee.com/el7awy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
 
-## 🌐 Portfolio:
-Explore my adventures at [BaselAI](https://baselai.vercel.app/).
