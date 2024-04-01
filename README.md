@@ -30,10 +30,15 @@
 <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" height="25px"/>
 <img alt="scikit-learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="25px"/>
 <img alt="Computer Vision" src="https://img.shields.io/badge/Computer_Vision-8a3ab9?style=for-the-badge&logoColor=white" height="25px"/>
-<img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-85C1E9?style=for-the-badge&logoColor=white" height="25px"/>
+<img alt="Natural Language Processing" src="https://img.shields.io/badge/Natural_Language_Processing-3A5FCD?style=for-the-badge&logoColor=white" height="25px"/>
+<img alt="Whisper" src="https://img.shields.io/badge/Whisper-5E8B7E?style=for-the-badge&logoColor=white" height="25px"/>
+<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" height="25px"/>
+<img alt="CLIP" src="https://img.shields.io/badge/CLIP-8E44AD?style=for-the-badge&logoColor=white" height="25px"/>
+<img alt="GPT" src="https://img.shields.io/badge/GPT-7441A5?style=for-the-badge&logoColor=white" height="25px"/>
 <img alt="Behavioral Analytics" src="https://img.shields.io/badge/Behavioral_Analytics-FF5733?style=for-the-badge&logoColor=white" height="25px"/>
 <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=LaTeX&logoColor=white" height="25px"/>
 </p>
+
 
 ## ❤️ Let's get connected:
 
