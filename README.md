@@ -37,7 +37,7 @@
 
 ## ❤️ Let's get connected:
 
-<p><a href="mailto:u2679054@uel.ac.uk" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30px" /></a> <a href="https://www.linkedin.com/in/basel-askar-920248156/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
+<p><a href="mailto:u2679054@uel.ac.uk" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30px" /></a> <a href="https://www.linkedin.com/in/basel-askar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
 </p>
 
 ## 📊 My GitHub Data:
