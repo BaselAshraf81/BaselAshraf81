@@ -65,9 +65,12 @@
 ## 📊 My GitHub Data:
 
 <div style="display: inline;">
-  <img style="display: inline;" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=BaselAshraf81&show_icons=true" />
-  <img style="display: inline;" src="https://github-readme-streak-stats.herokuapp.com/?user=BaselAshraf81&" alt="BaselAshraf" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=BaselAshraf81&show_icons=true" style="max-width: 100%;" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BaselAshraf81&" alt="BaselAshraf" style="max-width: 100%;" />
 </div>
+
+
+
 ## 🤝 Support Me:
 
 <a href="https://www.buymeacoffee.com/el7awy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
