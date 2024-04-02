@@ -64,15 +64,12 @@
 
 ## 📊 My GitHub Data:
 
-<div style="display: flex; justify-content: center; max-width: 100%;">
-  <div style="flex: 1; max-width: 50%;">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=BaselAshraf81&show_icons=true" style="max-width: 100%; height: auto;" />
-  </div>
-  <div style="flex: 1; max-width: 50%;">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BaselAshraf81&" alt="BaselAshraf" style="max-width: 100%; height: auto;" />
-  </div>
+<div align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=BaselAshraf81&show_icons=true" />
 </div>
-
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BaselAshraf81&" alt="BaselAshraf81" />
+</div>
 
 
 
