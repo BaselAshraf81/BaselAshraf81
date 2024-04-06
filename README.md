@@ -65,11 +65,11 @@
 ## 📊 My GitHub Data:
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=BaselAshraf81&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=BaselAshraf81&show_icons=true" style="float: left; margin-right: 10px;" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BaselAshraf81&" alt="BaselAshraf81" style="float: right; margin-left: 10px;" />
 </div>
-<div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BaselAshraf81&" alt="BaselAshraf81" />
-</div>
+
+
 
 
 
