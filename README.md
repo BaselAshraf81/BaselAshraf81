@@ -7,7 +7,7 @@
 
 ## 👨🏻‍💻 About Me:
 
-- 🙋‍♂️ Diligent and ambitious Computer Engineering and Software Systems student at the University of East London, actively seeking an internship opportunity as a Machine Learning Labeler at Belvo.
+- 🙋‍♂️ Diligent and ambitious Computer Engineering and Software Systems student at the University of East London.
 
 - 🔭 Currently engaged in the practical application of machine learning principles to address real-world challenges, both academically and through coursework at IEEE.
 
