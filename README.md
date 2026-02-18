@@ -1,5 +1,5 @@
 <h1 align="center">Hi</h1>
-<h3 align="center">Computer Engineer | Data & ML | Professional Diver 🌊</h3>
+<h3 align="center">Computer Engineer</h3>
 
 <p align="center">
   Building the bridge between <b>Software Systems</b> and the <b>Physical World</b>.
