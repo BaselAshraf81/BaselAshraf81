@@ -11,8 +11,7 @@
 
 - 🎓 **Studying:** Dual Degree in Computer Engineering (University of East London & Ain Shams University).
 - 🔭 **Focus:** Data Engineering Pipelines, Computer Vision, and Autonomous Systems.
-- 🌊 **Background:** Professional Diver & Swimmer — interested in <b>Marine Robotics</b> and Oceanography.
-- 🛠️ **Building:** Scalable backend architectures and ML-ready data schemas.
+- 🛠️ **Building:** Great stuff
 
 ## 🛠️ Tech Stack
 
