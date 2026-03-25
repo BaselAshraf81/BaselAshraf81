@@ -1,51 +1,76 @@
-<h1 align="center">Hi</h1>
-<h3 align="center">Computer Engineer</h3>
-
 <p align="center">
-  Building the bridge between <b>Software Systems</b> and the <b>Physical World</b>.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header&text=Basel%20Askar&fontSize=42&fontColor=ffffff&fontAlignY=65&desc=Founder%20%40%20AlertaCert%20%7C%20Computer%20Engineer&descSize=16&descAlignY=85&descColor=888888" width="100%"/>
 </p>
 
 <br/>
 
-## 👨🏻‍💻 About Me
+### Building AlertaCert — certificate management infrastructure for accounting firms in LATAM.
 
-- 🎓 **Studying:** Dual Degree in Computer Engineering (University of East London & Ain Shams University).
-- 🔭 **Focus:** Data Engineering Pipelines, Computer Vision, and Autonomous Systems.
-- 🛠️ **Building:** Great stuff
+Accountants managing dozens of client digital certificates (e.firma, DIAN, AFIP) had no dedicated tool. Certificates expired silently, deadlines were missed, clients were lost. I built the fix.
 
-## 🛠️ Tech Stack
+**[alertacert.com](https://alertacert.com)** — encrypted vault · expiry alerts · real-time validation · PDF signing
+
+<br/>
+
+---
+
+### Open Source
+
+Shipped Next.js 16 + React 19 support to **[Nextron](https://github.com/saltyshiomix/nextron)** — a framework for building Electron desktop apps with Next.js used by thousands of developers. The PR touched 33 files, enabled full Turbopack compatibility, and shipped as `nextron@9.6.0` the same day it was merged.
+
+---
+
+<br/>
+
+### Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=ts,python,cpp,nextjs,react,electron&theme=dark" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv,postgres,supabase,docker,redis&theme=dark" />
 </p>
 
-## 📊 GitHub Stats
+<br/>
+
+---
+
+### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=BaselAshraf81&show_icons=true&theme=dark&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BaselAshraf81&theme=dark&hide_border=true" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BaselAshraf81&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=4493f8&text_color=8b949e&rank_icon=github" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaselAshraf81&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" height="160"/>
 </div>
 
 <br/>
 
-## 📫 Connect
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BaselAshraf81&theme=github-dark-blue&hide_border=true&background=0d1117&ring=4493f8&fire=4493f8&currStreakLabel=ffffff" height="150"/>
+</div>
+
+<br/>
+
+---
+
+### Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/basel-askar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://alertacert.com" target="_blank">
+    <img src="https://img.shields.io/badge/AlertaCert-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://baselai.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:basel.ashraf81@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/basel-askar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:basel.ashraf81@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://baselai.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" width="100%"/>
 </p>
