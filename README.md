@@ -69,6 +69,10 @@ Shipped Next.js 16 + React 19 support to **[Nextron](https://github.com/saltyshi
   <a href="mailto:bosbos.basel@gmail.com">
     <img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  &nbsp;
+  <a href="https://ko-fi.com/baselashraf" target="_blank">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
