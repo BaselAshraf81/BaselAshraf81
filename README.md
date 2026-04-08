@@ -62,7 +62,7 @@ Shipped Next.js 16 + React 19 support to **[Nextron](https://github.com/saltyshi
     <img src="https://img.shields.io/badge/AlertaCert-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://baselai.vercel.app/" target="_blank">
+  <a href="https://baselai.vercel.app/resume/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   &nbsp;
