@@ -53,11 +53,7 @@ Shipped Next.js 16 + React 19 support to **[Nextron](https://github.com/saltyshi
 
 ### Connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/basel-askar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
+
   <a href="https://alertacert.com" target="_blank">
     <img src="https://img.shields.io/badge/AlertaCert-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
