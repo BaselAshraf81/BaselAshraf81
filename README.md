@@ -2,12 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f0f0f,100:1a1a2e&height=250&section=header&text=Basel%20Ashraf&fontSize=48&fontColor=ffffff&fontAlignY=50&desc=Computer%20Engineer%20%7C%20Builder&descSize=17&descAlignY=68&descColor=aaaaaa" width="100%"/>
 </p>
 
-<p align="center">
-  <a href="https://eigendrum.com"><img src="https://img.shields.io/badge/Eigendrum-live-1f6feb?style=flat-square"/></a>
-  &nbsp;<a href="https://github.com/BaselAshraf81?tab=followers"><img src="https://img.shields.io/github/followers/BaselAshraf81?style=flat-square&color=1f6feb&labelColor=0d1117"/></a>
-  &nbsp;<img src="https://komarev.com/ghpvc/?username=BaselAshraf81&style=flat-square&color=1f6feb&label=profile+views"/>
-</p>
-
 ## About
 
 Computer engineer and full-stack developer. I build things end to end, from the numerics up to the interface, and I ship them.
@@ -60,10 +54,6 @@ Shipped Next.js 16 and React 19 support to Nextron, a framework for building Ele
   <img src="https://github-readme-stats.vercel.app/api?username=BaselAshraf81&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=1f6feb&text_color=8b949e&rank_icon=github" height="160"/>
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaselAshraf81&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" height="160"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=BaselAshraf81&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1f6feb&fire=1f6feb&currStreakLabel=ffffff" height="150"/>
 </div>
 
 ---
