@@ -1,12 +1,21 @@
 ### Basel Ashraf
 
-Computer engineer. I build things end to end and ship them.
+Computer engineer & solo builder. I build production software end-to-end and ship it.
 
-**[Eigendrum](https://eigendrum.com)** ([source](https://github.com/BaselAshraf81/eigendrum)): draw any shape and hear the sound it would actually make. Solves the Dirichlet eigenvalue problem on the outline with finite elements and synthesises the real frequencies, no samples. Front page of Hacker News, #1 on r/InternetIsBeautiful.  
-[HN](https://news.ycombinator.com/item?id=49246366) · [r/InternetIsBeautiful](https://www.reddit.com/r/InternetIsBeautiful/comments/1vdja1i/draw_any_shape_and_hear_what_it_would_sound_like/) · [Kottke](https://kottke.org/26/08/0049489-eigendrum)
+🌐 **[Portfolio & Research](https://baselashraf.com)** · 📧 **[Email](mailto:hello@baselashraf.com)** · 💼 **[LinkedIn](https://www.linkedin.com/in/basel-askar/)** · 🪪 **[ORCID](https://orcid.org/0009-0009-3441-6196)** · 🐦 **[X](https://x.com/BaselAshraf81)** · ☕ **[Ko-fi](https://ko-fi.com/baselashraf)**
 
-**[Prolific Tea](https://prolifictea.com)**: researcher reviews and real pay data for Prolific participants, with a Chrome extension.
+---
 
-[Contributed](https://github.com/saltyshiomix/nextron) Next.js 16 / React 19 support to Nextron.
+### Key Projects
 
-[X](https://x.com/BaselAshraf81) · [email](mailto:bosbos.basel@gmail.com) · [ko-fi](https://ko-fi.com/baselashraf)
+- 🥁 **[Eigendrum](https://eigendrum.com)** ([source](https://github.com/BaselAshraf81/eigendrum)) — Draw any closed outline and hear the drum it physically is. Solves the Dirichlet eigenvalue problem for the Laplacian with P1 finite elements in a browser worker. No samples.
+  - **150★** · **[DOI: 10.5281/zenodo.22019539](https://doi.org/10.5281/zenodo.22019539)**
+  - Featured on [Hacker News](https://news.ycombinator.com/item?id=49305250) (front page ×2), [Wikipedia](https://en.wikipedia.org/wiki/Hearing_the_shape_of_a_drum#External_links), [kottke.org](https://kottke.org/26/08/0049489-eigendrum), [r/InternetIsBeautiful](https://www.reddit.com/r/InternetIsBeautiful/comments/1vqhylx/eigendrum_draw_a_shape_and_hear_it_as_a_drum/), and 52+ global sources in 8 languages.
+
+- 📐 **[LayoutSans](https://github.com/BaselAshraf81/layout-sans)** ([npm](https://www.npmjs.com/package/layout-sans)) — A TypeScript flex & grid layout engine that runs without a DOM or WASM in ~17 kB gzipped (outperforms Meta's Yoga in runtime speed and bundle size). Supports interactive canvas text selection, Ctrl+F, and screen-reader accessibility.
+
+- 🍵 **[Prolific Tea](https://prolifictea.com)** — Review and transparency platform for Prolific study participants to rate academic researchers. Next.js, Chrome extension, PWA push notifications, 100,000+ page views.
+
+- ⚡ **[fastemporal](https://docs.rs/fastemporal)** — Luxon date/time API reimplemented in Rust with 332 conformance tests.
+
+- 🛠️ **[Nextron #531](https://github.com/saltyshiomix/nextron/pull/531)** — Upgraded Electron + Next.js framework to Next 16 and React 19 across 33 files (merged & released as `nextron@9.6.0`).
