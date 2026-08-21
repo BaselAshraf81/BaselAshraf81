@@ -2,7 +2,7 @@
 
 Computer engineer & solo builder. I build production software end-to-end and ship it.
 
-🌐 **[Portfolio & Research](https://baselashraf.com)** · 📧 **[Email](mailto:hello@baselashraf.com)** · 💼 **[LinkedIn](https://www.linkedin.com/in/basel-askar/)** · 🪪 **[ORCID](https://orcid.org/0009-0009-3441-6196)** · 🐦 **[X](https://x.com/BaselAshraf81)** · ☕ **[Ko-fi](https://ko-fi.com/baselashraf)**
+🌐 **[Portfolio & Research](https://baselashraf.com)** · 📄 **[Resume (PDF)](https://baselashraf.com/resume.pdf)** · 📧 **[Email](mailto:hello@baselashraf.com)** · 💼 **[LinkedIn](https://www.linkedin.com/in/basel-askar/)** · 🪪 **[ORCID](https://orcid.org/0009-0009-3441-6196)** · 🐦 **[X](https://x.com/BaselAshraf81)** · ☕ **[Ko-fi](https://ko-fi.com/baselashraf)**
 
 ---
 
